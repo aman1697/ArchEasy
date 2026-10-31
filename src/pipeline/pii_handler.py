@@ -13,8 +13,7 @@ class PIIFinding:
     """A PII match without copying the matched sensitive value."""
 
     entity_type: str
-    start: intclear
-    eclear
+    start: int
 
     end: int
     score: float
